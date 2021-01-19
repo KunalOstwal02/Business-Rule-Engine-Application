@@ -1,4 +1,5 @@
 # Business-Rule-Engine-Application
-Using the Python Business Rule Engine library to define a rule-based engine that imports rules from an excel sheet and apply the rules and export the output to another excel sheet.
+A rule-based engine that can take input data from a database file. The logical operations can be defined without any code understanding. The output is produced in another file which can be saved to the database.
+Implemented in MH-CET Test Centre Scholarship Scheme by MKCL.
 
 Check the Dynamic Rule-based Engine Project Report.pdf for details.
